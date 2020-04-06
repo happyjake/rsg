@@ -1,0 +1,16 @@
+code.cloudfoundry.org/bytefmt v0.0.0-20160706172800-24c06ce13e17 h1:OurN/bhuyxQfWp6xk0gKUV9c7F8Wv9314wnvm8+clkU=
+code.cloudfoundry.org/bytefmt v0.0.0-20160706172800-24c06ce13e17/go.mod h1:wN/zk7mhREp/oviagqUXY3EwuHhWyOvAdsn5Y4CzOrc=
+github.com/aws/aws-sdk-go v1.1.23-0.20160502214357-1915858199be h1:F8pYcwWvbhA9pnDnfqHQQrw3Xxe5ZVl7swFpycjhouA=
+github.com/aws/aws-sdk-go v1.1.23-0.20160502214357-1915858199be/go.mod h1:ZRmQr0FajVIyZ4ZzBYKG5P3ZqPz9IHG41ZoMu1ADI3k=
+github.com/davecgh/go-spew v1.0.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/go-ini/ini v1.21.1 h1:+QXUYsI7Tfxc64oD6R5BxU/Aq+UwGkyjH4W/hMNG7bg=
+github.com/go-ini/ini v1.21.1/go.mod h1:ByCAeIL28uOIIG0E3PJtZPDL8WnHpFKFOtgjp+3Ies8=
+github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7 h1:SMvOWPJCES2GdFracYbBQh93GXac8fq7HeN6JnpduB8=
+github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
+github.com/mattn/go-sqlite3 v1.1.1-0.20160514122348-38ee283dabf1 h1:h808yN0vzMNyekOZGLRM3OiB8BBLgNqE180rKydRh8U=
+github.com/mattn/go-sqlite3 v1.1.1-0.20160514122348-38ee283dabf1/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/spf13/pflag v0.0.0-20151218134703-7f60f83a2c81 h1:e8OMOPK+iXlzdnq5GOtSZDnw9HJi1faEKhCoEIxVUrY=
+github.com/spf13/pflag v0.0.0-20151218134703-7f60f83a2c81/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
+github.com/stretchr/objx v0.0.0-20150928122152-1a9d0bb9f541/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.1.4-0.20160615092844-d77da356e56a/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
